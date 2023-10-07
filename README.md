@@ -9,7 +9,7 @@ Make sure .NET framework is installed
 Download the repository and run the .exe
 
 ```
-Disable windows defender or it wont work. 
+Disable windows defender or it wont work. (optional) Works sometimes with it on.
 
 
 
