@@ -9,7 +9,7 @@ Make sure .NET framework is installed
 Download the repository and run the .exe
 
 ```
-Disable windows defender or it wont work. (optional) Works sometimes with it on.
+Disable windows defender or it wont work. (optional) Wont collect rains sometimes with it on.
 
 
 
